@@ -1,0 +1,64 @@
+body {
+	font-family: Helvetica;
+}
+
+h1 {
+	font-size: 100px;
+	font-weight: bold;
+	color: khaki;
+	text-align: center;
+	background-image: url('https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg')
+}
+
+.brushTitle {
+	font-size: 32px;
+	font-weight: bold;
+	color: white;
+	background-color: mediumspringgreen;
+}
+
+.frameTitle {
+	font-size: 32px;
+	font-weight: bold;
+	color: white;
+	background-color: lightcoral;
+}
+
+.paintTitle {
+	font-size: 32px;
+	font-weight: bold;
+	color: white;
+	background-color: skyblue;
+}
+
+.paintbrush {
+	background-image: url('https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/hacksaw.jpeg');
+	background-repeat: no-repeat; 
+ 	background-position: center; 
+ 	background-size: cover;
+ 	height: 250px;
+    width: 250px;
+}
+
+.paint {
+	background-image: url('https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/finnish.jpeg');
+	background-repeat: no-repeat; 
+ 	background-position: center; 
+ 	background-size: cover;
+ 	height: 250px;
+    width: 250px;
+}
+
+.frames {
+	background-image: url('https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/frames.jpeg');
+	background-repeat: no-repeat; 
+ 	background-position: center; 
+ 	background-size: cover;
+ 	height: 250px;
+    width: 250px;
+}
+
+.bluetxt {
+	color: blue;
+	font-weight: bold;
+}
